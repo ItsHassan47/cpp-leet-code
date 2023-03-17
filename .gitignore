@@ -9,6 +9,8 @@
 *.user
 *.userosscache
 *.sln.docstates
+1275. WinnerOnATicTacToe/
+127. WordLadder/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
